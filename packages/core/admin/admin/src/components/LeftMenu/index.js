@@ -120,7 +120,7 @@ const LeftMenu = ({ generalSectionLinks, pluginsSectionLinks }) => {
       />
 
       <Divider />
-
+			<div> Customized Menu </div>
       <NavSections>
         <NavLink
           as={RouterNavLink}
